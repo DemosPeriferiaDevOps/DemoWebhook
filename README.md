@@ -18,6 +18,6 @@
 ![alt text](./imgs/disparador.JPG)
 
 * *Al realizar un push en la rama master de nuestro repositorio se notifican los cambios en Jenkins, lo cual indica que el Webhook ha sido configurado satisfactoriamente*
-![alt text](./imgs/repo.JPG)
+![alt text](./imgs/cambios.JPG)
 
 
